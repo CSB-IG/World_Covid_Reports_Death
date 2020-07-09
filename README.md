@@ -2,4 +2,4 @@
 Analyitics of Worldwide Death Reports from COVID
 
 
-Hola
+This work is based on the analysis of the reporting rate of COVID-19 data!
