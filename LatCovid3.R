@@ -1,3 +1,5 @@
+## START HERE
+
 
 ### Reading data ###############
 Y <-read.csv(file="DailyDeaths_05_20_2020.csv", header=TRUE)
